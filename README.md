@@ -23,9 +23,13 @@ Integrated AWS Budgets, Cost Anomaly Detection, CloudWatch, SNS email alerts, re
 **Scope:** The application serves a static page displaying the EC2 instance ID and Availability Zone; database application integration is not implemented.
 <div align="center">
 
-[Architecture]
-<img width="3400" height="2000" alt="image" src="https://github.com/user-attachments/assets/a7dbd5e6-85c7-4c4c-acc9-503fd43957b9" />
+<h3>Architecture</h3>
 
+<img width="800" alt="Architecture diagram" src="https://github.com/user-attachments/assets/5d128286-c291-489b-ae11-9d2a8791d62a" />
+
+<br/><br/>
+
+<img width="800" alt="Architecture workflow" src="https://github.com/user-attachments/assets/a7dbd5e6-85c7-4c4c-acc9-503fd43957b9" />
 
 </div>
 
